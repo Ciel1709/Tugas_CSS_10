@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to bottom right,red,white);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.satu{
+    width: 800px;
+    height: 400px;
+    background-image: radial-gradient(ellipse at bottom, white, blue);
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+.dua{
+    width: 800px;
+    height: 250px;
+    background-image: linear-gradient(to left, white, blue, white);
+    background-repeat: no-repeat;
+    margin: auto;
+}
